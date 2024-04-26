@@ -1,4 +1,4 @@
-Currently I am looking for a temporary job (from April to around July) till my PhD course starts in September. I served as a UX researcher of web services for several years . I have also experienced a research in the field of Human-computer Interaction and Augmented Reality.
+Currently I am looking for a temporary job (from April to around July) till my PhD course starts in September . I served as a UX researcher of web services for several years . I have also experienced a research in the field of Human-computer Interaction and Augmented Reality.
 
 Initially, I worked at Gaprise.Inc, where I played a key role in expanding monday.com, a project management platform originating from Israel, into the Japanese market. Subsequently, at fcafe Inc., I focused on enhancing the user experience for our clients' e-commerce platforms as an UX researcher.
 
