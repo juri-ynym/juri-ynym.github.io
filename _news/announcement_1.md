@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-日本語のポートフォリオサイトは<a href="https://juri-ynym.github.io/portfolio">こちら</a>
+【採用担当者の方へ】日本語のポートフォリオサイトは<a href="https://juri-ynym.github.io/portfolio">こちら</a>
