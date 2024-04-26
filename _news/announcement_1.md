@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-04-24 16:59:00-0400
 inline: true
 related_posts: false
 ---
 
-This website is currently under renewal.
+日本語のポートフォリオサイトは<a href="https://juri-ynym.github.io/portfolio">こちら</a>
