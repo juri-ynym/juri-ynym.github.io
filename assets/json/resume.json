@@ -71,7 +71,7 @@
     {
       "name": "Augmented Reality Visual Effects for Mitigating Anxiety About In‐person Conversation for Social Anxiety Disorder",
       "publisher": "Juri Yoneyama, Yuichiro Fujimoto, Kosuke Okazaki, Taishi Sawabe, Masayuki Kanbara, Hirokazu Kato",
-      "releaseDate": "1905-06-30",
+      "releaseDate": "2023-08-19",
       "url": "https://ceur-ws.org/Vol-3467/paper7.pdf",
       "summary": "The 15th Asia‐Pacific Workshop on Mixed and Augmented Reality (APMAR2023), 2023, Taipei, Taiwan"
     }
@@ -148,9 +148,9 @@
   ],
   "projects": [
     {
-      "name": "HICUP Lab at the University of Primorska",
-      "summary": "",
-      "highlights": ["Research internship", "Join research: AR for vocabulary learning"],
+      "name": "Research Internship",
+      "summary": "University of Primorska, Koper, Slovenia",
+      "highlights": ["HIC-UP Lab", "Joit research: AR for vocabulary learning"],
       "startDate": "2023-02-04",
       "endDate": "2023-03-28",
       "url": ""
