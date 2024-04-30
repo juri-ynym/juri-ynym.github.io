@@ -23,8 +23,7 @@
       institution: Osaka University
       year: 2016
       description:
-        - Description 1.
-        - Description 2.
+        - Major in Arabic language and culture
 
 - title: Working Experience
   type: time_table
@@ -33,8 +32,8 @@
       institution: fcafe.Inc, Osaka, Japan
       year: 2020 - 2022
       description:
-        - Description 1.
-        - Description 2.
+        - UX research (User testing, user interviews and analysis)
+        - UI design (Ecommerce websites, websites, landing pages banners and web application)
         - title: Description 3.
           contents:
             - Sub-description 1.
