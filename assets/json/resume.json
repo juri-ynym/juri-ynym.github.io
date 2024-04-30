@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Juri Yoneyama",
-    "label": "",
+    "label": "PhD Candidate (September 2024 ~)",
     "image": "",
     "email": "julie.ynym@gmail.com",
     "phone": "",
@@ -29,8 +29,8 @@
       "url": "",
       "startDate": "2020-04-01",
       "endDate": "2022-04-30",
-      "summary": "I conducted UX research such as user testing, user interviews and analysis. Based on the results, I was in charge of UI design.",
-      "highlights": ["UX research","UI design", "Ecommerce"]
+      "summary": "I enhanced the e‐commerce website’s user experience (UX) through qualitative research methods such as user interviews and user testing.",
+      "highlights": ["UX research","UI design"]
     },
     {
       "name": "Gaprise.Inc",
@@ -38,7 +38,7 @@
       "url": "",
       "startDate": "2018-09-01",
       "endDate": "2020-02-29",
-      "summary": "I was expanding monday.com, which is project management platform made in Israel to the Japanese market.",
+      "summary": "monday.com is a project management platform made in Israel. I improved diverse clients’ internal workflows by using monday.com to make their workflows more efficient.",
       "highlights": ["Sales","Customer success", "Consulting"]
     }
   ],
@@ -47,20 +47,20 @@
     {
       "institution": "Nara Institute of Science and Technology",
       "location": "Nara, Japan",
-      "url": "https://www.uzh.ch/",
-      "area": "Augmented Reality, Human-computer Interaction",
+      "url": "",
+      "area": "",
       "studyType": "Master of Engineering",
       "startDate": "2022-04-01",
       "endDate": "2024-03-23",
       "score": "",
-      "courses": ["Master thesis AR Avatar-Mediated Approach for Mitigating Social Anxiety during In-person Conversations"]
+      "courses": ["Research field: Augmented Reality, Human-computer Interaction","Master thesis: AR Avatar-Mediated Approach for Mitigating Social Anxiety during In-person Conversations", "Joint research: AR for vocabulary learning"]
     },
     {
       "institution": "Osaka University",
       "location": "Osaka, Japan",
-      "url": "https://www.uzh.ch/",
-      "area": "Linguistigs (Arabic)",
-      "studyType": "Bachelor of Arts",
+      "url": "",
+      "area": "",
+      "studyType": "Bachelor of Arts in Linguistic",
       "startDate": "2012-04-01",
       "endDate": "2016-03-31",
       "score": ""
@@ -69,20 +69,47 @@
  
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
+      "name": "Augmented Reality Visual Effects for Mitigating Anxiety About In‐person Conversation for Social Anxiety Disorder",
+      "publisher": "Juri Yoneyama, Yuichiro Fujimoto, Kosuke Okazaki, Taishi Sawabe, Masayuki Kanbara, Hirokazu Kato",
       "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "url": "https://ceur-ws.org/Vol-3467/paper7.pdf",
+      "summary": "The 15th Asia‐Pacific Workshop on Mixed and Augmented Reality (APMAR2023), 2023, Taipei, Taiwan"
     }
   ],
   "skills": [
     {
-      "name": "",
+      "name": "UI Design",
       "level": "",
       "icon": "",
       "keywords": [
-        ""
+        "Adobe Xd", "Figma", "Photoshop", "HTML5","CSS"
+      ]
+    },
+
+    {
+      "name": "UX Research",
+      "level": "",
+      "icon": "",
+      "keywords": [
+        "User interview", "User testion", "Customer journey map"
+      ]
+    },
+
+    {
+      "name": "Development",
+      "level": "",
+      "icon": "",
+      "keywords": [
+        "Unity", "C#", "github"
+      ]
+    },
+
+    {
+      "name": "Analysis",
+      "level": "",
+      "icon": "",
+      "keywords": [
+        "R"
       ]
     }
   ],
@@ -118,5 +145,16 @@
         ""
       ]
     }
+  ],
+  "projects": [
+    {
+      "name": "HICUP Lab at the University of Primorska",
+      "summary": "",
+      "highlights": ["Research internship", "Join research: AR for vocabulary learning"],
+      "startDate": "2023-02-04",
+      "endDate": "2023-03-28",
+      "url": ""
+    }
   ]
+  
 }
