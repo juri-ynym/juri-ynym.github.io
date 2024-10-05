@@ -16,11 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Currently I am looking for a temporary job (from April to around August). I served as a UX researcher of web services for several years . I have also experienced a research in the field of Human-computer Interaction and Augmented Reality.
-
-Initially, I focused on enhancing the user experience for our clients' e-commerce platforms as an UX researcher.
-
-Seeking to further my knowledge and expertise, I then enrolled in a Master's program in Information Science. I was working under the guidance of Prof. Hirokazu Kato and Prof. Yuichiro Fujimoto. My research interest lies in exploring the applications of Augmented Reality (AR) in non-technological fields.
+I am PhD candidate at Hybrid Team in Inria, France. My research field is Augmented reality and Virtual reality.
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
