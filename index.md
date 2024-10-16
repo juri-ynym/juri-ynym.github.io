@@ -1,21 +1,23 @@
 ---
-layout: about
-permalink: /
-profile:
-  align: right
-  image: profile.png
-published: true
+layout: homepage
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+## About Me
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+I am a Ph.D. student at ...
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+## Research Interests
 
-PS: If you liked the theme, do star it on GitHub!
+- **Computer Vision:** image recognition, image generation, video captioning
+- **Machine Learning:** meta-learning, incremental learning, transfer learning
 
-### Also, check out:
+## News
 
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
+- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
+- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
+- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+
+{% include_relative _includes/publications.md %}
+
+{% include_relative _includes/services.md %}
