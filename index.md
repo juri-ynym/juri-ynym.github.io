@@ -13,7 +13,8 @@ I am a PhD student at Inria, France.
 
 <!--
 ## News
-
+-->
+<!--
 - **[Feb. 2020]** XXXXX-->
 
 {% include_relative _includes/publications.md %}
