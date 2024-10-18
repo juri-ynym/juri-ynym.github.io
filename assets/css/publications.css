@@ -11,6 +11,24 @@
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
 
+.title{
+  font-size:1rem;
+  font-weight:600;
+  margin-bottom:0.4rem;
+}
+.author{
+  font-size:0.8rem;
+  margin-bottom:0.4rem;
+  font-weight:600;
+}
+
+.periodical{
+  font-size:0.8rem;
+  margin-bottom:0.8rem
+}
+
+
+
 .badge {
     color: #fff !important;
     border-radius: 0.125rem;
@@ -50,7 +68,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li .abbr .award { color: var(--global-theme-color) !important; border: 1px solid var(--global-theme-color); }
 
-.publications ol.bibliography li .title { font-weight: bolder; }
+.publications ol.bibliography li .title { }
 
 .publications ol.bibliography li .author a { border-bottom: 1px var(--global-theme-color); }
 
@@ -58,7 +76,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li .author > em { border-bottom: 1px solid; font-style: normal; }
 
-.publications ol.bibliography li .links a.btn { color: #000000; border: 1px solid #000000; padding-left: 0.5rem; padding-right: 0.5rem; padding-top: 0.1rem; padding-bottom: 0.1rem; }
+.publications ol.bibliography li .links a.btn { color: #25282b; border: 1px solid #25282b; padding-left: 0.5rem; padding-right: 0.5rem; padding-top: 0.1rem; padding-bottom: 0.1rem; }
 
 @media (prefers-color-scheme: dark) {
 .publications ol.bibliography li .links a.btn { color: #FFFFFF; border: 1px solid #FFFFFF; padding-left: 0.5rem; padding-right: 0.5rem; padding-top: 0.1rem; padding-bottom: 0.1rem; }

@@ -7,16 +7,16 @@
   height:2.4rem;
   width:2.4rem;
   background-color:transparent;
-  color:#043361!important;
+  color:#25282b!important;
   border-radius:100%;
   text-align:center;
   font-size:1.15rem;
   line-height:2.5rem;
   margin-right:1rem}
 
-@media (prefers-color-scheme: dark) { .social-icons a {color: #3eb7f0 !important; }}
+@media (prefers-color-scheme: dark) { .social-icons a {color: #d3f26a !important; }}
 
-.social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:white;
+.social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:#f7f6ef;
     color:black;
     transform: scale(1.2)}
     /*
@@ -35,7 +35,7 @@
       }
      */
 
-@media (prefers-color-scheme: dark) {.social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:#20212b;
+@media (prefers-color-scheme: dark) {.social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:#25282b;
     color:black;
     transform: scale(1.2)} 
     /*
@@ -92,16 +92,16 @@
   margin:-1.8rem}
 
 .twitter span{
-  background-color:#4099ff}
+  background-color:#d3f26a}
 
 .facebook span{
-  background-color:#4286f4}
+  background-color:#d3f26a}
 
 .linkedin span{
-  background-color:#0077B5}
+  background-color:#d3f26a}
 
 .github span{
-  background-color:#000}
+  background-color:#25282b}
 
 email {
     font-size: 14px;
@@ -133,12 +133,12 @@ email {
   color:#000;}
 
 .icon-button .icon-linkedin{
-  color:#0077B5}
+  color:#25282b}
 
 .icon-button:hover .icon-twitter,.icon-button:hover .icon-facebook,.icon-button:hover .icon-github,.icon-button:hover .icon-linkedin{color:white}
 
 autocolor{
-  color:#595959;
+  color:#25282b;
 }
 
 lightonly {
@@ -160,12 +160,12 @@ papertitle {
 
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: #20212b;
-        color: #dadbdf;
+        background-color: #25282b;
+        color: #f7f6ef;
     }
 
     autocolor{
-      color:#dadbdf;
+      color:#f7f6ef;
     }
 
     lightonly {
@@ -177,7 +177,7 @@ papertitle {
     }
 
     papertitle {
-    color:#eeeff0;
+    color:#f7f6ef;
     }
 
 }
@@ -229,31 +229,31 @@ papertitle {
     }
 
 h3, h4, h5, h6 {
-  font-weight: 600;
-  color:#043361;
+  font-weight: 800;
+  color:#25282b;
   margin:0 0 20px;
 }
 
 h1 {
-  font-weight: 500;
-  color:#043361;
+  font-weight: 800;
+  color:#25282b;
   margin:0 0 20px;
 }
 
 h2 {
-  color:#043361;
-  font-weight: 500;
+  color:#25282b;
+  font-weight: 800;
   margin:2px 0px 15px;
   font-size: 157%;
 }
 
 @media (prefers-color-scheme: dark) {
   h1, h3, h4, h5, h6 {
-    color:rgb(62, 183, 240);
+    color:#d3f26a;
   }
 
   h2 {
-    color:rgb(62, 183, 240);
+    color:#d3f26a;
   }
 }
 
@@ -270,17 +270,19 @@ h1 {
 }
 
 a {
-  color:#39c;
+  color:#25282b;
+  font-weight:600;
+  line-height:1.2rem;
   text-decoration:none;
 }
 
 a:hover {
-  color:#069;
+  color:#d3f26a;
 }
 
 @media (prefers-color-scheme: dark) {
   a {
-    color:rgb(62, 183, 240);
+    color:#d3f26a;
   }
 }
 
@@ -315,9 +317,9 @@ code, pre {
 pre {
   max-width:500px;
   padding:8px 15px;
-  background: #f8f8f8;
+  background: #f7f6ef;
   border-radius:5px;
-  border:1px solid #e5e5e5;
+  border:1px solid #f7f6ef;
   overflow-x: auto;
 }
 
@@ -406,7 +408,7 @@ header ul a:hover {
 }
 
 header ul a:active {
-  background-color:#f0f0f0;
+  background-color:#f7f6ef;
 }
 
 strong {
@@ -573,7 +575,7 @@ footer {
   body {
     padding:0.4in;
     font-size:12pt;
-    color:#444;
+    color:#25282b;
   }
 }
 
